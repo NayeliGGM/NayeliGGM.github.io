@@ -9,15 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>55-1026-11-94 your office number</p>
-    <p>Morelos 9 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Mi numero telefonico: 55-10-26-11-94</p>
+    <p>Mi direccion es; morelos 9</p>
+    <p>Ciudad de Mexico</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hola Soy una chica, que estudia la Licenciatura en Ingenieria en Computacion, me encuentro cursando en octavo semestre de diez. Da miedo, hahaha, porque cada vez hay mas responsabilidades. `prof_pic.jpg`
+
+Si no hubiera elegido esta carrera, estudiaria artes plasticas o mecanica automotriz.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
