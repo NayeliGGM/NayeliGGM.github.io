@@ -12,7 +12,8 @@ profile:
     <p>Mi numero telefonico: 55-10-26-11-94</p>
     <p>Mi direccion es; morelos 9</p>
     <p>Ciudad de Mexico</p>
-    <a https://www.facebook.com/ </a>
+    <p>Facebook<a https://www.facebook.com/ </a></p>
+    <p>Youtube<a https://www.youtube.com/</a>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
