@@ -23,6 +23,7 @@ Hola Soy una chica, que estudia la Licenciatura en Ingenieria en Computacion, me
 
 Si no hubiera elegido esta carrera, estudiaria artes plasticas o mecanica automotriz.
 ---
-    <p>Facebook<a https://www.facebook.com/ </a></p>
-    <p>Youtube<a https://www.youtube.com/</a></p>
+    <p>Facebook <a https://www.facebook.com/ </a> </p>
+    [Facebook](https://www.facebook.com/)
+    <p>Youtube <a https://www.youtube.com/</a> </p>
 
