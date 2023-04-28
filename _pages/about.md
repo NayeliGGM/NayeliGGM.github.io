@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 Hola Soy una chica, que estudia la Licenciatura en Ingenieria en Computacion, me encuentro cursando en octavo semestre de diez. Da miedo, hahaha, porque cada vez hay mas responsabilidades. `prof_pic.jpg`
 
 Si no hubiera elegido esta carrera, estudiaria artes plasticas o mecanica automotriz.
-
+---
     <p>Facebook<a https://www.facebook.com/ </a></p>
-    <p>Youtube<a https://www.youtube.com/</a>
+    <p>Youtube<a https://www.youtube.com/</a></p>
 
